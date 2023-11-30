@@ -39,7 +39,7 @@ We talked with many of these teams and learned the main reasons they aren't usin
 1. They want their site to be really fast for users, and currently decentralized sites are plagued with speed issues.
 2. The developer experience for deploying to IPFS + ENS sucks (no automatic cicd/ no preview builds, no instant rollbacks, users have to pay gas to update their .eth website).
 
-<img src="https://github.com/alwaysbegrowing/dappling/assets/15036618/9809bc2d-d8a8-4962-8ee7-99ba2c904049" alt="drawing" width="400"/>
+<img src="https://github.com/alwaysbegrowing/dappling/assets/15036618/9809bc2d-d8a8-4962-8ee7-99ba2c904049" alt="drawing" width="300"/>
 
 
 ## Some specific ideas we have for the future
