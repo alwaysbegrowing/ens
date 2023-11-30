@@ -61,9 +61,9 @@ We've also built several tools: [v3deployments](https://ens-check.dappling.netwo
 We are currently a team of 3 working on this full time. We may bring on a few more people if we are selected as a service provider.
 
 # Links to documents with further information
-Site: [dappling.network](https://dappling.network)
-Docs: [docs.dappling.network](https://docs.dappling.network)
-Blog: [blog.dappling.network](https://blog.dappling.network)
+* Site: [dappling.network](https://dappling.network)
+* Docs: [docs.dappling.network](https://docs.dappling.network)
+* Blog: [blog.dappling.network](https://blog.dappling.network)
 
 # Conflict of interest statement
 None!
